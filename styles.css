@@ -22,3 +22,19 @@ body {
 	margin: 5px;
 	font-size: 13px;
 }
+.video-card5{
+	max-width: 228px;
+}
+.video-description5{
+	min-width: 228px;
+	display: flex;
+	align-items: flex-start;
+	color: white;
+}
+.video-description5 h4 {
+	margin: 5px;
+}
+.video-description5 p {
+	margin: 5px;
+	font-size: 13px;
+}
