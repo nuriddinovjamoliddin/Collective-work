@@ -22,7 +22,6 @@ body {
 	margin: 5px;
 	font-size: 13px;
 }
-
 .video-card8{
 	max-width : 228px;
 }
@@ -39,6 +38,31 @@ body {
 }
 
 .video-description8 p {
+
+
+.video-card-3 {
+	max-width: 228px;
+}
+.video-description-3 {
+	min-width: 228px;
+	display: flex;
+	align-items: flex-start;
+	color: white;
+}
+.video-description-3 h4 {
+	margin: 5px;
+}
+.video-description p {
+	margin: 5px;
+	font-size: 13px;
+}
+
+
+
+.video-description-3 h4 {
+	margin: 5px;
+}
+.video-description-3 p {
 	margin: 5px;
 	font-size: 13px;
 }
