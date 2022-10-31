@@ -5,3 +5,20 @@ body {
 .main {
 	width: 100%;
 }
+
+.video-card {
+	max-width: 228px;
+}
+.video-description {
+	min-width: 228px;
+	display: flex;
+	align-items: flex-start;
+	color: white;
+}
+.video-description h4 {
+	margin: 5px;
+}
+.video-description p {
+	margin: 5px;
+	font-size: 13px;
+}
